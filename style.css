@@ -1,0 +1,23 @@
+body {
+  background-color: lightgrey; 
+}
+
+.photo {
+  width: 500px;
+  height: 500px;
+  margin-left:  calc(50% - 250px);
+  margin-top: 3%;
+  border-radius: 250px;
+}
+
+.name {
+  text-align: center;
+  font-size: 35px;
+  color: rgb(54, 85, 138);
+}
+
+.bio {
+  text-align: center;
+  font-size: 25px;
+  color: rgb(54, 85, 138);
+}
